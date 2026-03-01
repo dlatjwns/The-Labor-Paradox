@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 580" width="680" height="580">
+<defs>
+<style>
+  text { font-family: "Helvetica Neue", Helvetica, sans-serif; }
+  .qtitle { font-size: 17px; font-weight: 700; }
+  .qdesc  { font-size: 13px; font-style: italic; }
+  .axis-title { font-size: 12px; font-weight: 700; fill: #333; font-family: "Helvetica Neue", Helvetica, sans-serif; }
+  .axis-lbl   { font-size: 10px; fill: #888; }
+  .branch-lbl { font-size: 10px; font-weight: 700; font-style: italic; }
+</style>
+</defs>
+<rect width="680" height="580" fill="white"/>
+
+<!-- Quadrant fills -->
+<rect x="90" y="60" width="275" height="215" fill="#dbeafe" opacity="0.55"/>
+<rect x="365" y="60" width="275" height="215" fill="#dcfce7" opacity="0.60"/>
+<rect x="90" y="275" width="275" height="215" fill="#fef9c3" opacity="0.50"/>
+<rect x="365" y="275" width="275" height="215" fill="#fee2e2" opacity="0.65"/>
+
+<!-- Quadrant titles and descriptions -->
+<text x="227" y="145" text-anchor="middle" class="qtitle" fill="#1d4ed8">Slow / Stable</text>
+<text x="227" y="165" text-anchor="middle" class="qdesc" fill="#1d4ed8">Gradual adaptation,</text>
+<text x="227" y="182" text-anchor="middle" class="qdesc" fill="#1d4ed8">low disruption</text>
+
+<text x="502" y="145" text-anchor="middle" class="qtitle" fill="#15803d">Positive Scenario</text>
+<text x="502" y="165" text-anchor="middle" class="qdesc" fill="#15803d">Abundance &amp;</text>
+<text x="502" y="182" text-anchor="middle" class="qdesc" fill="#15803d">inclusive transition</text>
+
+<text x="227" y="360" text-anchor="middle" class="qtitle" fill="#92400e">Negative Scenario</text>
+<text x="227" y="380" text-anchor="middle" class="qdesc" fill="#92400e">Polarization &amp;</text>
+<text x="227" y="397" text-anchor="middle" class="qdesc" fill="#92400e">wage stagnation</text>
+
+<text x="502" y="360" text-anchor="middle" class="qtitle" fill="#b91c1c">Crisis Scenario</text>
+<text x="502" y="380" text-anchor="middle" class="qdesc" fill="#b91c1c">Mass unemployment &amp;</text>
+<text x="502" y="397" text-anchor="middle" class="qdesc" fill="#b91c1c">social breakdown</text>
+
+<!-- Matrix frame and dividers -->
+<rect x="90" y="60" width="550" height="430" fill="none" stroke="#aaa" stroke-width="1.5"/>
+<line x1="365" y1="60" x2="365" y2="490" stroke="#888" stroke-width="1.5" stroke-dasharray="6,3"/>
+<line x1="90" y1="275" x2="640" y2="275" stroke="#888" stroke-width="1.5" stroke-dasharray="6,3"/>
+
+<!-- Arrow marker -->
+<defs><marker id="arrowhead" markerWidth="8" markerHeight="6" refX="6" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#374151"/></marker></defs>
+
+<!-- Diagonal arrow -->
+<line x1="130" y1="450" x2="600" y2="100" stroke="#374151" stroke-width="2" stroke-dasharray="8,4" marker-end="url(#arrowhead)" opacity="0.7"/>
+
+<!-- Key branching point only (center) -->
+<circle cx="365" cy="275" r="8" fill="white" stroke="#374151" stroke-width="2"/>
+<circle cx="365" cy="275" r="3.5" fill="#374151"/>
+<text x="378" y="269" text-anchor="start" class="branch-lbl" fill="#374151">Key branching</text>
+<text x="378" y="283" text-anchor="start" class="branch-lbl" fill="#374151">point</text>
+
+<!-- Roman numeral corners -->
+<text x="98" y="76" text-anchor="start" style="font-size:11px;font-weight:700;fill:#1d4ed8;opacity:0.35;font-family:'Helvetica Neue',Helvetica,sans-serif;">II</text>
+<text x="632" y="76" text-anchor="end"   style="font-size:11px;font-weight:700;fill:#15803d;opacity:0.35;font-family:'Helvetica Neue',Helvetica,sans-serif;">I</text>
+<text x="98" y="484" text-anchor="start" style="font-size:11px;font-weight:700;fill:#92400e;opacity:0.35;font-family:'Helvetica Neue',Helvetica,sans-serif;">III</text>
+<text x="632" y="484" text-anchor="end"  style="font-size:11px;font-weight:700;fill:#b91c1c;opacity:0.35;font-family:'Helvetica Neue',Helvetica,sans-serif;">IV</text>
+
+<!-- X axis -->
+<line x1="90" y1="504" x2="638" y2="504" stroke="#555" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+<text x="90"  y="518" text-anchor="start" class="axis-lbl">Low</text>
+<text x="640" y="518" text-anchor="end"   class="axis-lbl">High</text>
+<text x="365" y="536" text-anchor="middle" class="axis-title">Automation Level</text>
+
+<!-- Y axis: arrow and title close to labels -->
+<line x1="62" y1="488" x2="62" y2="62" stroke="#555" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+<text x="74" y="490" text-anchor="middle" class="axis-lbl">Low</text>
+<text x="74" y="70"  text-anchor="middle" class="axis-lbl">High</text>
+<text x="48" y="275" transform="rotate(-90,48,275)" text-anchor="middle" class="axis-title">Redistribution / Adaptation Capacity</text>
+
+</svg>

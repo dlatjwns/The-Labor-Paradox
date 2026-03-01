@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420">
+<defs><style>text{font-family:Helvetica,sans-serif;}.axis{font-size:11px;fill:#666;}.axis-r{font-size:11px;fill:#8e44ad;}.lbl{font-size:10px;font-weight:700;fill:#333;text-anchor:middle;}.anno-hist{font-size:10px;fill:#2471a3;font-style:italic;text-anchor:middle;}.anno-proj{font-size:10px;fill:#d68910;font-style:italic;font-weight:700;text-anchor:middle;}.anno-ger{font-size:10px;fill:#1e8449;font-style:italic;font-weight:700;text-anchor:end;}.leg{font-size:11px;fill:#333;}.sec{font-size:10px;fill:#aaa;}.xtitle{font-size:11px;fill:#666;text-anchor:middle;}</style></defs>
+<rect width="760" height="420" fill="white"/>
+<line x1="55" y1="320.0" x2="695" y2="320.0" stroke="#ebebeb" stroke-width="1"/>
+<text x="50" y="324.0" text-anchor="end" class="axis">20h</text>
+<line x1="55" y1="275.0" x2="695" y2="275.0" stroke="#ebebeb" stroke-width="1"/>
+<text x="50" y="279.0" text-anchor="end" class="axis">30h</text>
+<line x1="55" y1="230.0" x2="695" y2="230.0" stroke="#ebebeb" stroke-width="1"/>
+<text x="50" y="234.0" text-anchor="end" class="axis">40h</text>
+<line x1="55" y1="185.0" x2="695" y2="185.0" stroke="#ebebeb" stroke-width="1"/>
+<text x="50" y="189.0" text-anchor="end" class="axis">50h</text>
+<line x1="55" y1="140.0" x2="695" y2="140.0" stroke="#ebebeb" stroke-width="1"/>
+<text x="50" y="144.0" text-anchor="end" class="axis">60h</text>
+<line x1="55" y1="95.0" x2="695" y2="95.0" stroke="#ebebeb" stroke-width="1"/>
+<text x="50" y="99.0" text-anchor="end" class="axis">70h</text>
+<line x1="55" y1="50.0" x2="695" y2="50.0" stroke="#ebebeb" stroke-width="1"/>
+<text x="50" y="54.0" text-anchor="end" class="axis">80h</text>
+<text x="701" y="324.0" text-anchor="start" class="axis-r">0</text>
+<text x="701" y="288.5" text-anchor="start" class="axis-r">50</text>
+<text x="701" y="252.9" text-anchor="start" class="axis-r">100</text>
+<text x="701" y="217.4" text-anchor="start" class="axis-r">150</text>
+<text x="701" y="181.9" text-anchor="start" class="axis-r">200</text>
+<text x="701" y="146.4" text-anchor="start" class="axis-r">250</text>
+<text x="701" y="110.8" text-anchor="start" class="axis-r">300</text>
+<text x="701" y="75.3" text-anchor="start" class="axis-r">350</text>
+<line x1="695" y1="50" x2="695" y2="320" stroke="#d7bde2" stroke-width="1"/>
+<text x="751" y="185.0" transform="rotate(90,751,185.0)" text-anchor="middle" class="axis-r">Productivity Index (1970=100)</text>
+<line x1="586.3" y1="50" x2="586.3" y2="320" stroke="#ccc" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="574.3207547169811" y="64" text-anchor="end" class="sec">Historical</text>
+<text x="598.3207547169811" y="64" text-anchor="start" class="sec">Projected</text>
+<polyline points="103.3,317.2 344.8,313.6 465.6,288.0 489.7,275.9 513.9,248.9 538.0,227.6 562.2,204.9 586.3,170.8 610.5,135.3 634.6,99.7 641.9,78.4" fill="none" stroke="#8e44ad" stroke-width="2" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="103.3" cy="317.2" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="344.8" cy="313.6" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="465.6" cy="288.0" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="489.7" cy="275.9" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="513.9" cy="248.9" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="538.0" cy="227.6" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="562.2" cy="204.9" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="586.3" cy="170.8" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="610.5" cy="135.3" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="634.6" cy="99.7" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<circle cx="641.9" cy="78.4" r="3.5" fill="#8e44ad" stroke="white" stroke-width="1.5" opacity="0.9"/>
+<polyline points="103.3,95.0 344.8,140.0 465.6,194.0 513.9,230.0 586.3,252.5" fill="none" stroke="#4a7fa5" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="586.3,252.5 670.8,266.0" fill="none" stroke="#e8a042" stroke-width="2.5" stroke-dasharray="6,4" stroke-linejoin="round"/>
+<polygon points="586.3,252.5 670.8,266.0 670.8,320.0 586.3,320.0" fill="#e8a042" opacity="0.07"/>
+<polygon points="644.3,277.0 651.3,284.0 644.3,291.0 637.3,284.0" fill="#27ae60" stroke="white" stroke-width="1.5"/>
+<text x="630.0" y="288.0" class="anno-ger" text-anchor="end">Germany: 28h trial (2024)</text>
+<circle cx="103.3" cy="95.0" r="5" fill="#4a7fa5" stroke="white" stroke-width="1.5"/>
+<text x="103.3" y="85.0" class="lbl">70h</text>
+<circle cx="344.8" cy="140.0" r="5" fill="#4a7fa5" stroke="white" stroke-width="1.5"/>
+<text x="344.8" y="130.0" class="lbl">60h</text>
+<circle cx="465.6" cy="194.0" r="5" fill="#4a7fa5" stroke="white" stroke-width="1.5"/>
+<text x="465.6" y="184.0" class="lbl">48h</text>
+<circle cx="513.9" cy="230.0" r="5" fill="#4a7fa5" stroke="white" stroke-width="1.5"/>
+<text x="513.9" y="220.0" class="lbl">40h</text>
+<circle cx="586.3" cy="252.5" r="5" fill="#4a7fa5" stroke="white" stroke-width="1.5"/>
+<text x="586.3" y="242.5" class="lbl">35h</text>
+<line x1="586.3" y1="245.5" x2="586.3" y2="204.5" stroke="#2471a3" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="586.3" y="200.5" class="anno-hist">France: 35-hr week (2000)</text>
+<circle cx="670.8" cy="266.0" r="5" fill="#e8a042" stroke="white" stroke-width="1.5"/>
+<text x="670.8" y="256.0" class="lbl">32h</text>
+<line x1="670.8" y1="259.0" x2="670.8" y2="218.0" stroke="#d68910" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="670.8" y="214.0" class="anno-proj">Projected: 4-day / 32h</text>
+<line x1="55" y1="320" x2="695" y2="320" stroke="#999" stroke-width="1.5"/>
+<line x1="55" y1="50" x2="55" y2="320" stroke="#999" stroke-width="1.5"/>
+<line x1="103.3" y1="320" x2="103.3" y2="325" stroke="#999" stroke-width="1"/>
+<text x="103.3" y="337" text-anchor="middle" class="axis">1800</text>
+<line x1="344.8" y1="320" x2="344.8" y2="325" stroke="#999" stroke-width="1"/>
+<text x="344.8" y="337" text-anchor="middle" class="axis">1900</text>
+<line x1="465.6" y1="320" x2="465.6" y2="325" stroke="#999" stroke-width="1"/>
+<text x="465.6" y="337" text-anchor="middle" class="axis">1950</text>
+<line x1="513.9" y1="320" x2="513.9" y2="325" stroke="#999" stroke-width="1"/>
+<text x="513.9" y="337" text-anchor="middle" class="axis">1970</text>
+<line x1="586.3" y1="320" x2="586.3" y2="325" stroke="#999" stroke-width="1"/>
+<text x="586.3" y="337" text-anchor="middle" class="axis">2000</text>
+<line x1="644.3" y1="320" x2="644.3" y2="325" stroke="#999" stroke-width="1"/>
+<text x="644.3" y="337" text-anchor="middle" class="axis">2024</text>
+<line x1="670.8" y1="320" x2="670.8" y2="325" stroke="#999" stroke-width="1"/>
+<text x="670.8" y="337" text-anchor="middle" class="axis">2035</text>
+<text x="375.0" y="356" class="xtitle">Year</text>
+<text x="17" y="185.0" transform="rotate(-90,17,185.0)" text-anchor="middle" class="axis">Hours / Week</text>
+<!-- inline labels replacing legend -->
+<!-- Working hours label: on blue line between 1800 and 1900, around x=200, y=110 -->
+<text x="210" y="108" text-anchor="middle" style="font-size:10px;font-weight:700;fill:#4a7fa5;font-family:Helvetica,sans-serif;">Working hours</text>
+<!-- Labor Productivity label: on purple line between 1800 and 1900, around x=220, y=305 -->
+<text x="220" y="303" text-anchor="middle" style="font-size:10px;font-weight:700;fill:#8e44ad;font-family:Helvetica,sans-serif;">Labor Productivity Index (1970=100)</text>
+<text x="695" y="372" text-anchor="end" style="font-size:8px;fill:#aaa;font-style:italic;font-family:Helvetica,sans-serif;">Source: OECD Productivity Compendium 2024; Conference Board TED; Maddison Project Database 2023</text>
+</svg>

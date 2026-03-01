@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 340" width="840" height="340">
+<defs>
+  <style>
+    .axis-label { font-family: "Source Sans 3", sans-serif; font-size: 11px; fill: #8b7d5a; }
+    .anno-text  { font-family: "Source Sans 3", sans-serif; font-size: 13px; font-weight: 700; font-style: italic; fill: #2c2416; }
+    .y-title    { font-family: "Source Sans 3", sans-serif; font-size: 11px; fill: #8b7d5a; }
+    .src-note   { font-family: "Source Sans 3", sans-serif; font-size: 9px; font-style: italic; fill: #a08e6e; }
+  </style>
+</defs>
+<rect width="840" height="340" fill="white"/>
+<line x1="52" y1="292.00" x2="760" y2="292.00" stroke="#e8e0cc" stroke-width="1"/>
+<text x="46" y="296.00" text-anchor="end" class="axis-label">0%</text>
+<line x1="52" y1="235.60" x2="760" y2="235.60" stroke="#e8e0cc" stroke-width="1"/>
+<text x="46" y="239.60" text-anchor="end" class="axis-label">20%</text>
+<line x1="52" y1="179.20" x2="760" y2="179.20" stroke="#e8e0cc" stroke-width="1"/>
+<text x="46" y="183.20" text-anchor="end" class="axis-label">40%</text>
+<line x1="52" y1="122.80" x2="760" y2="122.80" stroke="#e8e0cc" stroke-width="1"/>
+<text x="46" y="126.80" text-anchor="end" class="axis-label">60%</text>
+<line x1="52" y1="66.40" x2="760" y2="66.40" stroke="#e8e0cc" stroke-width="1"/>
+<text x="46" y="70.40" text-anchor="end" class="axis-label">80%</text>
+<line x1="52" y1="10.00" x2="760" y2="10.00" stroke="#e8e0cc" stroke-width="1"/>
+<text x="46" y="14.00" text-anchor="end" class="axis-label">100%</text>
+<text x="10" y="151.00" transform="rotate(-90,10,151.00)" text-anchor="middle" class="y-title">Share of Employment (%)</text>
+<text x="52.00" y="310" text-anchor="middle" class="axis-label">1800</text>
+<line x1="52.00" y1="292" x2="52.00" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="116.36" y="310" text-anchor="middle" class="axis-label">1820</text>
+<line x1="116.36" y1="292" x2="116.36" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="180.73" y="310" text-anchor="middle" class="axis-label">1840</text>
+<line x1="180.73" y1="292" x2="180.73" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="245.09" y="310" text-anchor="middle" class="axis-label">1860</text>
+<line x1="245.09" y1="292" x2="245.09" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="309.45" y="310" text-anchor="middle" class="axis-label">1880</text>
+<line x1="309.45" y1="292" x2="309.45" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="373.82" y="310" text-anchor="middle" class="axis-label">1900</text>
+<line x1="373.82" y1="292" x2="373.82" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="438.18" y="310" text-anchor="middle" class="axis-label">1920</text>
+<line x1="438.18" y1="292" x2="438.18" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="502.55" y="310" text-anchor="middle" class="axis-label">1940</text>
+<line x1="502.55" y1="292" x2="502.55" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="566.91" y="310" text-anchor="middle" class="axis-label">1960</text>
+<line x1="566.91" y1="292" x2="566.91" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="631.27" y="310" text-anchor="middle" class="axis-label">1980</text>
+<line x1="631.27" y1="292" x2="631.27" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="695.64" y="310" text-anchor="middle" class="axis-label">2000</text>
+<line x1="695.64" y1="292" x2="695.64" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<text x="760.00" y="310" text-anchor="middle" class="axis-label">2020</text>
+<line x1="760.00" y1="292" x2="760.00" y2="297" stroke="#c4b48a" stroke-width="1"/>
+<path d="M 52.00 66.40 L 148.55 88.96 L 245.09 128.44 L 309.45 151.00 L 373.82 179.20 L 438.18 213.04 L 502.55 235.60 L 534.73 249.70 L 566.91 263.80 L 599.09 277.90 L 631.27 280.72 L 663.45 283.54 L 695.64 283.54 L 727.82 286.36 L 760.00 286.36 L 760.00 292.00 L 727.82 292.00 L 695.64 292.00 L 663.45 292.00 L 631.27 292.00 L 599.09 292.00 L 566.91 292.00 L 534.73 292.00 L 502.55 292.00 L 438.18 292.00 L 373.82 292.00 L 309.45 292.00 L 245.09 292.00 L 148.55 292.00 L 52.00 292.00 Z" fill="#c8985a" opacity="0.85"/>
+<polyline points="52.00,66.40 148.55,88.96 245.09,128.44 309.45,151.00 373.82,179.20 438.18,213.04 502.55,235.60 534.73,249.70 566.91,263.80 599.09,277.90 631.27,280.72 663.45,283.54 695.64,283.54 727.82,286.36 760.00,286.36" fill="none" stroke="white" stroke-width="1.5" opacity="0.6"/>
+<path d="M 52.00 43.84 L 148.55 55.12 L 245.09 77.68 L 309.45 88.96 L 373.82 103.06 L 438.18 122.80 L 502.55 142.54 L 534.73 153.82 L 566.91 173.56 L 599.09 196.12 L 631.27 210.22 L 663.45 224.32 L 695.64 232.78 L 727.82 241.24 L 760.00 249.70 L 760.00 286.36 L 727.82 286.36 L 695.64 283.54 L 663.45 283.54 L 631.27 280.72 L 599.09 277.90 L 566.91 263.80 L 534.73 249.70 L 502.55 235.60 L 438.18 213.04 L 373.82 179.20 L 309.45 151.00 L 245.09 128.44 L 148.55 88.96 L 52.00 66.40 Z" fill="#5a7d8b" opacity="0.85"/>
+<polyline points="52.00,43.84 148.55,55.12 245.09,77.68 309.45,88.96 373.82,103.06 438.18,122.80 502.55,142.54 534.73,153.82 566.91,173.56 599.09,196.12 631.27,210.22 663.45,224.32 695.64,232.78 727.82,241.24 760.00,249.70" fill="none" stroke="white" stroke-width="1.5" opacity="0.6"/>
+<path d="M 52.00 12.82 L 148.55 15.64 L 245.09 15.64 L 309.45 15.64 L 373.82 15.64 L 438.18 18.46 L 502.55 18.46 L 534.73 18.46 L 566.91 18.46 L 599.09 21.28 L 631.27 21.28 L 663.45 24.10 L 695.64 29.74 L 727.82 38.20 L 760.00 52.30 L 760.00 249.70 L 727.82 241.24 L 695.64 232.78 L 663.45 224.32 L 631.27 210.22 L 599.09 196.12 L 566.91 173.56 L 534.73 153.82 L 502.55 142.54 L 438.18 122.80 L 373.82 103.06 L 309.45 88.96 L 245.09 77.68 L 148.55 55.12 L 52.00 43.84 Z" fill="#6b8b5a" opacity="0.85"/>
+<polyline points="52.00,12.82 148.55,15.64 245.09,15.64 309.45,15.64 373.82,15.64 438.18,18.46 502.55,18.46 534.73,18.46 566.91,18.46 599.09,21.28 631.27,21.28 663.45,24.10 695.64,29.74 727.82,38.20 760.00,52.30" fill="none" stroke="white" stroke-width="1.5" opacity="0.6"/>
+<path d="M 52.00 10.00 L 148.55 10.00 L 245.09 10.00 L 309.45 10.00 L 373.82 10.00 L 438.18 10.00 L 502.55 10.00 L 534.73 10.00 L 566.91 10.00 L 599.09 10.00 L 631.27 10.00 L 663.45 10.00 L 695.64 10.00 L 727.82 10.00 L 760.00 10.00 L 760.00 52.30 L 727.82 38.20 L 695.64 29.74 L 663.45 24.10 L 631.27 21.28 L 599.09 21.28 L 566.91 18.46 L 534.73 18.46 L 502.55 18.46 L 438.18 18.46 L 373.82 15.64 L 309.45 15.64 L 245.09 15.64 L 148.55 15.64 L 52.00 12.82 Z" fill="#8b5a7d" opacity="0.85"/>
+<polyline points="52.00,10.00 148.55,10.00 245.09,10.00 309.45,10.00 373.82,10.00 438.18,10.00 502.55,10.00 534.73,10.00 566.91,10.00 599.09,10.00 631.27,10.00 663.45,10.00 695.64,10.00 727.82,10.00 760.00,10.00" fill="none" stroke="white" stroke-width="1.5" opacity="0.6"/>
+<text x="180.73" y="197.06" text-anchor="middle" dominant-baseline="middle" class="anno-text">Agriculture</text>
+<text x="486.45" y="183.78" text-anchor="middle" dominant-baseline="middle" class="anno-text">Manufacturing</text>
+<text x="566.91" y="96.01" text-anchor="middle" dominant-baseline="middle" class="anno-text">Services</text>
+<text x="743.91" y="27.62" text-anchor="middle" dominant-baseline="middle" class="anno-text">Platform/Gig</text>
+<line x1="52" y1="10" x2="52" y2="292" stroke="#c4b48a" stroke-width="1.5"/>
+<line x1="52" y1="292" x2="760" y2="292" stroke="#c4b48a" stroke-width="1.5"/>
+<text x="760" y="328" text-anchor="end" class="src-note">Source: Illustrative estimates based on historical labor market data. Values are approximate.</text>
+</svg>
