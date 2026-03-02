@@ -34,7 +34,7 @@ This report offers the **first systematic, integrated analysis** of how these tw
 - Detailed policy roadmap (2025–2070) with specific recommendations (mandatory AI literacy, flexicurity, EU AI Act model, robot tax, UBI pilots, etc.)
 
 ## Files
-- **Full English PDF** (Final Version, March 2026): [The_Labor_Paradox_01March2026.pdf](The_Labor_Paradox_01March2026.pdf) 
+- **Full English PDF** (Final Version, March 2026): [The_Labor_Paradox_01March2026.pdf](https://github.com/dlatjwns/The-Labor-Paradox/releases/download/report2026/The_Labor_Paradox_01March2026.pdf) 
 (Source Word file (.docx) available upon request for editing or detailed reference.) 
 - **Figures & Graphs**: [/Figures_and_Raw_Data](Figures_and_Raw_Data/) folder  
 
