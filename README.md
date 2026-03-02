@@ -36,7 +36,7 @@ This report offers the **first systematic, integrated analysis** of how these tw
 ## Files
 - **Full English PDF** (Final Version, March 2026): [The_Labor_Paradox_01March2026.pdf](https://github.com/dlatjwns/The-Labor-Paradox/releases/download/report2026/The_Labor_Paradox_01March2026.pdf) 
 (Source Word file (.docx) available upon request for editing or detailed reference.) 
-- **Figures & Graphs**: [/Figures_and_Raw_Data](Figures_and_Raw_Data/) folder  
+- **Figures & Graphs**: [Figures and Raw Data](https://github.com/dlatjwns/The-Labor-Paradox/tree/main/Figures%20and%20Raw%20Data) folder  
 
 
 ## Author's Note
